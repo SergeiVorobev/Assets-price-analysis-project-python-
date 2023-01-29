@@ -1,2 +1,7 @@
 # Assets-price-analysis-project-python-
-This program analyzes the change in the asset over time and determines the best time to buy and sell using the SMA price intersection method.
+
+This program analyzes the change in an asset over time and determines the best time to buy and sell.
+
+Technology used: Python + operator, matplotlib, pandas libraries
+
+Method used:  the SMA price intersection method.
