@@ -8,3 +8,4 @@ Method used:  the SMA price intersection method.
 
 
 валлаоалаббчв
+cvbbn
